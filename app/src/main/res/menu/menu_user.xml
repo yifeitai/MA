@@ -1,0 +1,20 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="tecsup.com.municipalalerts.activities.UserActivity">
+    <item
+        android:id="@+id/maps"
+        android:orderInCategory="100"
+        android:title="Maps"
+        app:showAsAction="always"
+        android:icon="@drawable/google_maps"/>
+
+    <item
+        android:id="@+id/settings"
+        android:orderInCategory="100"
+        android:icon="@drawable/settings"
+        android:title="@string/action_settings"
+        app:showAsAction="always" />
+
+
+</menu>
