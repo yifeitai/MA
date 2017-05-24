@@ -97,6 +97,7 @@
             android:name="ma.com.ma.ConfigActicity"
             android:label="@string/title_activity_config_acticity"
             android:theme="@style/AppTheme.NoActionBar"></activity>
+        <uses-permission android:name="android.permission.INTERNET" />
     </application>
 
 </manifest>
