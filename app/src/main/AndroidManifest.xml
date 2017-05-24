@@ -49,7 +49,6 @@
         <activity
             android:name="ma.com.ma.activities.LoginActivity"
             android:label="Login in" />
-        <activity android:name="ma.com.ma.activities.RegisterActivity" />
 
         <activity android:name="ma.com.ma.models.SubmitNewActivity" />
 
