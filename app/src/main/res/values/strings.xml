@@ -1,4 +1,9 @@
 <resources>
     <string name="app_name">MA</string>
-    <string name="title_activity_list_news">list_news</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="title_activity_user">UserActivity</string>
+    <string name="title_activity_first_tab">FirstTab</string>
+    <string name="title_activity_second_tab">SecondTab</string>
+    <string name="title_activity_config_acticity">ConfigActicity</string>
 </resources>
