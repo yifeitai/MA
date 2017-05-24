@@ -11,7 +11,7 @@ import com.google.android.gms.maps.model.BitmapDescriptorFactory;
 import com.google.android.gms.maps.model.LatLng;
 import com.google.android.gms.maps.model.MarkerOptions;
 
-import ma.com.ma.R;
+import tecsup.com.municipalalerts.R;
 
 public class MapsActivity extends FragmentActivity implements OnMapReadyCallback {
 
