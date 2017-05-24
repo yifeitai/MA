@@ -8,7 +8,7 @@
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
-    tools:context="tecsup.com.municipalalerts.activities.LoginActivity">
+    tools:context="ma.com.ma.activities.LoginActivity">
 
     <!-- Login progress -->
     <ProgressBar
